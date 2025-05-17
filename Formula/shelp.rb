@@ -3,7 +3,7 @@ class Shelp < Formula
   
     desc     "AI-powered shell-command helper"
     homepage "https://github.com/Nadr0j/shelp"
-    url      "https://github.com/Nadr0j/shelp/releases/download/v0.1.0/shelp-0.1.0.tar.gz"
+    url      "https://github.com/Nadr0j/shelp/archive/refs/tags/v0.1.0.tar.gz"
     sha256   "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
     license  "MIT"
   
