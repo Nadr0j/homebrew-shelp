@@ -4,7 +4,7 @@ class Shelp < Formula
     desc     "AI-powered shell-command helper"
     homepage "https://github.com/Nadr0j/shelp"
     url      "https://github.com/Nadr0j/shelp/archive/refs/tags/v0.1.0.tar.gz"
-    sha256   "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+    sha256   "775d5cab749d9c56894dbad15d729de97a93fa4c7a0983dd67f3a753b1eb9015"
     license  "MIT"
   
     depends_on "python@3.12"                 
